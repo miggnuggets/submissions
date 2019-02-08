@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\Debug\Submission1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Submission1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Submission1.map</FILE>
+  <FILE>Submission1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\main.asm</FILE><LINE>10</LINE></start>
+  <L1><FILE>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\main.asm</FILE><LINE>16</LINE></L1>
+  <OVERFLOW1><FILE>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\main.asm</FILE><LINE>26</LINE></OVERFLOW1>
+  <L2><FILE>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\main.asm</FILE><LINE>20</LINE></L2>
+  <OVERFLOW2><FILE>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\main.asm</FILE><LINE>32</LINE></OVERFLOW2>
+  <L3><FILE>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\main.asm</FILE><LINE>24</LINE></L3>
+  <OVERFLOW3><FILE>c:\users\migggy\Documents\Atmel Studio\7.0\Submission1\Submission1\main.asm</FILE><LINE>39</LINE></OVERFLOW3>
+ </LABELS>
+</ASSEMBLER_INFO>
