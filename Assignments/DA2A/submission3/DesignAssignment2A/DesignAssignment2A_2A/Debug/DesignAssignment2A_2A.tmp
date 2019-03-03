@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\oit\Desktop\DesignAssignment2A-20190302T201600Z-001\DesignAssignment2A\DesignAssignment2A_2A\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\oit\Desktop\DesignAssignment2A-20190302T201600Z-001\DesignAssignment2A\DesignAssignment2A_2A\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.150\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\oit\Desktop\DesignAssignment2A-20190302T201600Z-001\DesignAssignment2A\DesignAssignment2A_2A\Debug\DesignAssignment2A_2A.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DesignAssignment2A_2A.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DesignAssignment2A_2A.map</FILE>
+  <FILE>DesignAssignment2A_2A.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <CHECK><FILE>C:\Users\oit\Desktop\DesignAssignment2A-20190302T201600Z-001\DesignAssignment2A\DesignAssignment2A_2A\main.asm</FILE><LINE>18</LINE></CHECK>
+  <BEGIN><FILE>C:\Users\oit\Desktop\DesignAssignment2A-20190302T201600Z-001\DesignAssignment2A\DesignAssignment2A_2A\main.asm</FILE><LINE>26</LINE></BEGIN>
+  <DELAYHIGH><FILE>C:\Users\oit\Desktop\DesignAssignment2A-20190302T201600Z-001\DesignAssignment2A\DesignAssignment2A_2A\main.asm</FILE><LINE>32</LINE></DELAYHIGH>
+  <BODYHIGH><FILE>C:\Users\oit\Desktop\DesignAssignment2A-20190302T201600Z-001\DesignAssignment2A\DesignAssignment2A_2A\main.asm</FILE><LINE>39</LINE></BODYHIGH>
+  <DONE><FILE>C:\Users\oit\Desktop\DesignAssignment2A-20190302T201600Z-001\DesignAssignment2A\DesignAssignment2A_2A\main.asm</FILE><LINE>44</LINE></DONE>
+ </LABELS>
+</ASSEMBLER_INFO>
